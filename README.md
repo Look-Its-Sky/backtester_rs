@@ -1,0 +1,3 @@
+A simple WIP Rust backtester library for Python
+Intended to work with 1 million+ rows of data.
+More coming soon...
