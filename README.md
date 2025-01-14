@@ -1,3 +1,3 @@
-A simple WIP Rust backtester library for Python
-Intended to work with 1 million+ rows of data.
+A simple WIP Python financial backtesting library written in Rust<br> 
+Intended to work with 1 million+ rows of data.<br>
 More coming soon...
