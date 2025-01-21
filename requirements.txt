@@ -1,0 +1,4 @@
+setuptools
+setuptools_rust
+pandas
+numpy
